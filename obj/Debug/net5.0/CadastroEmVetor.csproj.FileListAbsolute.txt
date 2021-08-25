@@ -1,0 +1,16 @@
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/CadastroEmVetor
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/CadastroEmVetor.deps.json
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/CadastroEmVetor.runtimeconfig.json
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/CadastroEmVetor.runtimeconfig.dev.json
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/CadastroEmVetor.dll
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/ref/CadastroEmVetor.dll
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/bin/Debug/net5.0/CadastroEmVetor.pdb
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.csproj.AssemblyReference.cache
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.GeneratedMSBuildEditorConfig.editorconfig
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.AssemblyInfoInputs.cache
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.AssemblyInfo.cs
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.csproj.CoreCompileInputs.cache
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.dll
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/ref/CadastroEmVetor.dll
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.pdb
+/home/dm1n/Documentos/CSharp/CadastroEmVetor/obj/Debug/net5.0/CadastroEmVetor.genruntimeconfig.cache
